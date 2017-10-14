@@ -1,0 +1,12 @@
+register-form {
+  .register-form__button {
+    padding: 10px;
+    float: right;
+
+    //nth-of-type : for the first button , if i have many
+    div button:nth-of-type(1){
+      margin-right: 10px;
+    }
+  }
+
+}
